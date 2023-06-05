@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi 👋, I'm Venkata Satya Sruthi mrunalini Penmatcha, you can call me Sruthi.</h2>
 <h3 align="center">Graduate Student from George Mason University, Former Software Engineer at Tech Mahindra</h3>
-
-<h3 align="left">Connect with me:</h3>
+<p align = "left"> I am a Data Analytics Engineering graduate student from George Mason University, and former Software Engineer at Tech Mahindra. I am a Data enthusiast and ML enthusiast and constantly seek to deepen my understanding of machine learning concepts, algorithms, and frameworks. Also, having a great interest in programming and problem solving.</p>
+<h3 align="left">Find me elsewhere:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sruthimrunalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthimrunalini" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pvsathyasruthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pvsathyasruthi" height="30" width="40" /></a>
